@@ -21,14 +21,6 @@ I’m currently working on some css3 animations which can be found <a href="http
 on a fullstack project for a friend of mine to help veterans transition out of the military and find jobs(November 2021 to TBD).
 </p>
 
-
-
-
-
-
-
-
-i
 <!--
 **TBuscemi/TBuscemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
